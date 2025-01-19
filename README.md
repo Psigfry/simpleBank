@@ -30,10 +30,10 @@ Simple Bank is a backend service written in Go that allows you to create and man
    git clone https://github.com/yourusername/simpleBank.git
    cd simpleBank
 
-### API Endpoints
+## API Endpoints
 
 (Coming soon - database structure and schemas will be added here)
 
-### Database Structure
+## Database Structure
 
 (Coming soon - database structure and schemas will be added here)
