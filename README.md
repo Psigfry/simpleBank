@@ -36,4 +36,6 @@ Simple Bank is a backend service written in Go that allows you to create and man
 
 ## Database Structure
 
-(Coming soon - database structure and schemas will be added here)
+   ![Simple Bank (1)](https://github.com/user-attachments/assets/06b3b4ed-b0d5-4ebc-8014-142f53e04496)
+
+
